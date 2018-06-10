@@ -1,0 +1,1 @@
+org.springframework.boot.diagnostics.FailureAnalyzer=com.test.bootdemo.failure_analy.MyNoSuchBeanFailureAnalyzer,com.test.bootdemo.failure_analy.MyNoBeanNotOfRequiredTypeFailureAnalyzer
